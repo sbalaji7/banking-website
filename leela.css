@@ -1,0 +1,31 @@
+.box{
+	border:1px solid black;
+	height:100px;
+	width:700px;
+}
+.rome{
+	font-family: serif;
+	padding-left:50px;
+	font-size:18px;
+	padding-top:10px;
+}
+.rome1{
+	color:gray;
+	padding-left:50px;
+	font-size:15px;
+	margin-top:-8px;
+}
+.box1{
+	border-right:1px solid black;
+	margin-right:500px;
+	height:70px;
+	margin-top:15px;
+}
+.box2{
+	border-bottom:1px solid black;
+	margin-top:-15px;
+}
+.spee{
+	padding-left:200px;
+	margin-top:-57px;
+}
